@@ -14,6 +14,6 @@ public class App {
 
         System.out.println("dev branch add");
         System.out.println("master branch add");
-        System.out.println("dev branch uodate");
+        System.out.println("dev branch update");
     }
 }
